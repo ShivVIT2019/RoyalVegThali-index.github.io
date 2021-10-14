@@ -2,9 +2,9 @@
 
 # To Begin with:
 
--Html(Language)
--Css(Style Purpose)
--Java Script(Links)
+- Html(Language)
+- Css(Style Purpose)
+- Java Script(Links)
 
 
 # Basically To Describe All types of  Thalis
